@@ -1,0 +1,4 @@
+#Wed Mar 13 19:16:33 CDT 2019
+base.0=C\:\\FIRST\\robotics2018-2\\robotics2018\\ftc_app\\TeamCode\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
